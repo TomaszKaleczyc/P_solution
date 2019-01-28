@@ -1,2 +1,2 @@
 # P_solution
-logistic regression
+logistic regression task solution
